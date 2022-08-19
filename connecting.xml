@@ -1,0 +1,12 @@
+<datasources>
+    <viewstore>
+        <location>localhost</location>
+        <user-name>root</user-name>
+        <password>1289</password>
+	<database_details>
+		<dbname>views</dbname>
+ 		<table_name />
+    </database_details>
+    </viewstore>
+    
+    <rdbms_datasource><location>localhost</location><user-name>root</user-name><password>1289</password><database_details><dbname>marketdb</dbname><table_name>dim_cust</table_name></database_details></rdbms_datasource></datasources>
